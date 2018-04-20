@@ -1,5 +1,8 @@
 Android的values多语言适配
 
+通过正则表达式^((?!(\*|//)).)+[\u4e00-\u9fa5]进行搜索
+搜索命令是ctrl+shirf+f
+
 中文（中国）：values-zh-rCN
 中文（台湾）：values-zh-rTW
 中文（香港）：values-zh-rHK
